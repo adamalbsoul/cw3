@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Coursework 3
 
-You can use the [editor on GitHub](https://github.com/oreoadidas/cw3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The game was decided to be based on Dante’s Inferno, the first part of the epic poem “Divine Comedy”. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Character cards
+The characters will be based on the ones from the poem.
 
-### Markdown
+### Equipment cards
+to be drawn not too frequently (perhaps at the beginning of a circle the players can decide which equipment to keep and which to discard for other equipment cards).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The board
+divided into 9 concentric circles which are further divided into 8 squares. The concept board was made in Adobe XD. It was based on a 1506 woodcut illustration by Antonio Manetti.
 
-```markdown
-Syntax highlighted code block
+Circle concept:
+Semi-circle concept:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oreoadidas/cw3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### End game
+to reach the end of the board
+Another iteration of the game was made as 9x8 fields (9 concentric circles divided into 8 fields) seemed a bit excessive.
