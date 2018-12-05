@@ -34,10 +34,15 @@ to be drawn not too frequently (perhaps at the beginning of a circle the players
 divided into 9 concentric circles which are further divided into 8 squares. The concept board was made in Adobe XD. It was based on a 1506 woodcut illustration by Antonio Manetti.
 
 Semi-Circle with double the fields concept:
-![sc2](semiCircle2.png)
+
+![s](semiCircle2.png)
+
 Circle concept:
+
 ![c](InfernoBoard1.png)
+
 Semi-circle concept:
+
 ![sc](semiCircle.png)
 
 ### End game
