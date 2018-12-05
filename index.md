@@ -35,7 +35,7 @@ divided into 9 concentric circles which are further divided into 8 squares. The 
 
 Semi-Circle with double the fields concept:
 
-![s](semiCircle2.png)
+![sc2](semiCircle2.png)
 
 Circle concept:
 
@@ -44,6 +44,10 @@ Circle concept:
 Semi-circle concept:
 
 ![sc](semiCircle.png)
+
+## Card mat
+Used to place the cards.
+![mat](mat.png.png)
 
 ### End game
 to reach the end of the board
