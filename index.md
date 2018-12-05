@@ -7,23 +7,27 @@ The characters will be based on the ones from the poem.
 
 ### Equipment cards
 to be drawn not too frequently (perhaps at the beginning of a circle the players can decide which equipment to keep and which to discard for other equipment cards).
-
+### Spell cards:
 ![a](/img/arrow.png)
+![d](/img/demo.png)
+![dd](/img/doppler.png)
+![hh](/img/hell.png)
+![m](/img/magidem.png)
+![rr](/img/revive.png)
+![t](/img/time.png)
+
+### Trap cards:
 ![b](/img/bgl.png)
 ![bb](/img/block.png)
 ![c](/img/cf.png)
-![cr](/img/cross.png)
-![d](/img/demo.png)
-![dd](/img/doppler.png)
-![e](/img/extendedArm.png)
 ![ee](/img/eye.png)
-![h](/img/halberd.png)
-![hh](/img/hell.png)
-![m](/img/magidem.png)
 ![r](/img/reflect.png)
-![rr](/img/revive.png)
+
+### Weapon cards:
+![cr](/img/cross.png)
+![e](/img/extendedArm.png)
+![h](/img/halberd.png)
 ![s](/img/scythe.png)
-![t](/img/time.png)
 ![y](/img/yamato.png)
 
 ### The board
