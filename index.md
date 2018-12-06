@@ -39,7 +39,7 @@ The icons in the top right of the cards represent their type:
 ![r](/img/reflect.png)
 
 ### Weapon cards:
-![cr](/img/cross.png)
+![cr](/img/cad.png)
 ![e](/img/extendedArm.png)
 ![h](/img/halberd.png)
 ![s](/img/scythe.png)
