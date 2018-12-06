@@ -19,6 +19,9 @@ The icons in the top right of the cards represent their type:
 **Spell:**
 ![spell](/img/spellIcon.png)
 
+**Wildcard:**
+![wild](/img/wild.png)
+
 ### Spell cards:
 ![a](/img/arrow.png)
 ![d](/img/demo.png)
@@ -42,11 +45,9 @@ The icons in the top right of the cards represent their type:
 ![s](/img/scythe.png)
 ![y](/img/yamato.png)
 
-### (Rare) Wild cards:
-
--**Sower of Discord**-Forces an enemy card to get a new character card
-
--**Imposter** - Switch your character card with an enemy's character card
+### Wild cards:
+![imposter](/img/imposter.png)
+![sower](/img/sower.png)
 
 ### The board
 
