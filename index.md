@@ -49,7 +49,10 @@ The icons in the top right of the cards represent their type:
 -**Imposter** - Switch your character card with an enemy's character card
 
 ### The board
-divided into 9 concentric circles which are further divided into 8 squares. The concept board was made in Adobe XD. It was based on a 1506 woodcut illustration by Antonio Manetti.
+
+-**Put danger fields (as ! and ? icons)**
+
+Divided into 9 concentric circles which are further divided into 8 squares. The concept board was made in Adobe XD. It was based on a 1506 woodcut illustration by Antonio Manetti.
 
 Semi-Circle with double the fields concept:
 
