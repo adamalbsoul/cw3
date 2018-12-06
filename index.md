@@ -10,13 +10,13 @@ to be drawn not too frequently (perhaps at the beginning of a circle the players
 
 The icons in the top right of the cards represent their type:
 
-#### Weapon:
+**Weapon:**
 ![weapon](/img/weaponIcon.png)
 
-#### Trap:
+**Trap:**
 ![trap](/img/trapIcon.png)
 
-#### Spell:
+**Spell:**
 ![spell](/img/spellIcon.png)
 
 ### Spell cards:
