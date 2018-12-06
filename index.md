@@ -51,7 +51,7 @@ Semi-Circle with double the fields concept:
 
 Circle concept:
 
-![c](/img/InfernoBoard1.png)
+![circleBoard](/img/InfernoBoard1.png)
 
 Semi-circle concept:
 
