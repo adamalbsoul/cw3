@@ -45,6 +45,7 @@ The icons in the top right of the cards represent their type:
 ### (Rare) Wild cards:
 
 -**Sower of Discord**-Forces an enemy card to get a new character card
+
 -**Imposter** - Switch your character card with an enemy's character card
 
 ### The board
