@@ -47,15 +47,15 @@ divided into 9 concentric circles which are further divided into 8 squares. The 
 
 Semi-Circle with double the fields concept:
 
-![sc2](semiCircle2.png)
+![sc2](/img/semiCircle2.png)
 
 Circle concept:
 
-![c](InfernoBoard1.png)
+![c](/img/InfernoBoard1.png)
 
 Semi-circle concept:
 
-![sc](semiCircle.png)
+![sc](/img/semiCircle.png)
 
 ## Card mat
 Used to place the cards.
