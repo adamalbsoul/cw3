@@ -7,6 +7,18 @@ The characters will be based on the ones from the poem.
 
 ### Equipment cards
 to be drawn not too frequently (perhaps at the beginning of a circle the players can decide which equipment to keep and which to discard for other equipment cards).
+
+The icons in the top right of the cards represent their type:
+
+Weapon:
+![weapon](/img/weaponIcon.png)
+
+Trap:
+![trap](/img/trapIcon.png)
+
+Spell:
+![spell](/img/spellIcon.png)
+
 ### Spell cards:
 ![a](/img/arrow.png)
 ![d](/img/demo.png)
