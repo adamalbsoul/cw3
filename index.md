@@ -59,7 +59,7 @@ Semi-circle concept:
 
 ## Card mat
 Used to place the cards.
-![mat](mat.png.png)
+![mat](mat.png)
 
 ### End game
 to reach the end of the board
