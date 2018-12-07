@@ -11,15 +11,19 @@ to be drawn not too frequently (perhaps at the beginning of a circle the players
 The icons in the top right of the cards represent their type:
 
 **Weapon:**
+---
 ![weapon](/img/weaponIcon.png)
 
 **Trap:**
+---
 ![trap](/img/trapIcon.png)
 
 **Spell:**
+---
 ![spell](/img/spellIcon.png)
 
 **Wildcard:**
+---
 ![wild](/img/wild.png)
 
 ### Spell cards:
