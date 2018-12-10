@@ -65,10 +65,6 @@ Final Board:
 
 ![finalboard](/img/board.png)
 
-Semi-Circle with colours concept:
-
-![boardcolour](/img/boardColour.png)
-
 Semi-Circle with double the fields concept:
 
 ![sc2](/img/semiCircle2.png)
