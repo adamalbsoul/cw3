@@ -55,7 +55,9 @@ The icons in the top right of the cards represent their type:
 
 ### The board
 
--**Put danger fields (as ! and ? icons)**
+**Danger fields**:
+![exclaim](/img/e.png)
+![question](/img/q.png)
 
 Divided into 9 concentric circles which are further divided into 8 squares. The concept board was made in Adobe XD. It was based on a 1506 woodcut illustration by Antonio Manetti.
 
