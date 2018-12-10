@@ -63,7 +63,7 @@ Divided into 9 concentric circles which are further divided into 8 squares. The 
 
 Final Board:
 
-![finalboard](/img/FinalBoard.png)
+![finalboard](/img/board.png)
 
 Semi-Circle with colours concept:
 
