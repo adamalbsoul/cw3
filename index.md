@@ -6,7 +6,7 @@ The game was decided to be based on Dante’s Inferno, the first part of the epi
 The characters will be based on the ones from the poem.
 
 ### Equipment cards
-to be drawn not too frequently (perhaps at the beginning of a circle the players can decide which equipment to keep and which to discard for other equipment cards).
+These cards are not supposed to be drawn frequently(perhaps at the beginning of a circle the players can decide which equipment to keep and which to discard for other equipment cards).
 
 The icons in the top right of the cards represent their type:
 
@@ -82,5 +82,5 @@ Used to place the cards.
 ![mat](/img/mat.png)
 
 ### End game
-to reach the end of the board
+Reaching the end of the board ends the game.
 Another iteration of the game was made as 9x8 fields (9 concentric circles divided into 8 fields) seemed a bit excessive.
