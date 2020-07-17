@@ -1,4 +1,4 @@
-## Coursework 3
+## Divine Comedy board game
 
 The game was decided to be based on Dante’s Inferno, the first part of the epic poem “Divine Comedy”. 
 
